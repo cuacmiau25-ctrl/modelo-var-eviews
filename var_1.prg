@@ -1,5 +1,6 @@
 ' Abrir Workfile | cambiar la ruta del archivo según su ubicación
-wfopen "c:\users\usuario\onedrive\7mo_ciclo\econometría_ii\tarea final\workfiles\trab_version_final.wf1"
+wfopen "c:\users\usuario\onedrive\7mo_ciclo\econometría_ii\tarea final\workfiles\datos.wf1"
+
 
 '------------------------------------------------------------
 ' PRIMERA PREGUNTA=======================================================================================
@@ -868,4 +869,5 @@ var2.impulse(24, imp=struct)
 
 'decomposion de la varianza struc
 var2.decomp(24, m, imp=struct)
+
 
